@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/company", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Руководство", 
+		"management.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Миссия и стратегия", 
+		"mission.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История", 
+		"history.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/company/vacancies.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
